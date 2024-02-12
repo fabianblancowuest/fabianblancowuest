@@ -2,8 +2,8 @@
 
 <!--
 **fabianblancowuest/fabianblancowuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on the deployment of my personal projects and the creation of my portfolio.
 - 🌱 I’m currently learning about agile methodologies and personal branding.
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
   <li>HTML</li>
 </ul>
 - ⚡ Fun fact:...
--->
