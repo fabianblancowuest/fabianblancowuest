@@ -3,13 +3,13 @@
 <!--
 **fabianblancowuest/fabianblancowuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+🤔 I’m looking for help with ...
+💬 Ask me about ...
 -->
 
 <h4>🔭 I’m currently working on the deployment of my personal projects and the creation of my portfolio.</h4>
 <h4>🌱 I’m currently learning about agile methodologies and personal branding.</h4>
-<h4>👯 I’m looking to collaborate on a challenging, interesting and useful project.</h4>
-🤔 I’m looking for help with ...
-💬 Ask me about ...
+<h4>👯 I’m looking to collaborate on a challenging, interesting and useful projects.</h4>
 
 <h3>📫 How to reach me:</h3>
 <ul>
