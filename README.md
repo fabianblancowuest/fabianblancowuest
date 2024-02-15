@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <h4>🔭 I’m currently working on the deployment of my personal projects and the creation of my portfolio.</h4>
 <h4>🌱 I’m currently learning about agile methodologies and personal branding.</h4>
-<h4>👯 I’m looking to collaborate on a challenging, interesting and useful projects.</h4>
+<h4>👯 I’m looking to collaborate on challenging, interesting and useful projects.</h4>
 
 <h3>📫 How to reach me:</h3>
 <ul>
