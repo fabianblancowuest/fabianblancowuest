@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h3>📫 How to reach me:</h3>
 <ul>
 <li>Email: fabianblancowuest@gmail.com</li>
-<li><a href="https://www.linkedin.com/in/fabianblancowuest/">LinkedIn</a></li>
+<li><a href="https://www.linkedin.com/in/fabianblancowuest/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
 </ul>
   
 <h3>💻 Tech Skills:</h3>
