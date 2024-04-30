@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 <h3>📫 How to reach me:</h3>
 <ul>
 <li>Email: fabianblancowuest@gmail.com</li>
-<li>LinkedIn: https://www.linkedin.com/in/fabi%C3%A1n-blanco-wuest-04979b196/</li>
+<li><a href="https://www.linkedin.com/in/fabianblancowuest/">LinkedIn</a></li>
 </ul>
   
 <h3>💻 Tech Skills:</h3>
 <ul>
+  <li>JavaScript</li>
   <li>ReactJS</li>
   <li>Node.js</li>
   <li>Express.js</li>
   <li>Postgre SQL</li>
   <li>Sequelize</li>
+  <li>MongoDB</li>
   <li>CSS</li>
   <li>HTML</li>
+  <li>Bootstrap</li>
 </ul>
 
 <h3>⚡ Fun fact:</h3>
-<h4>I have 2 dogs🐶 and a cat🐱.</h4>
+<h4>I have 8 dogs🐶 and a cat🐱.</h4>
