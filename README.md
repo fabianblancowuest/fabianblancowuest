@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 💬 Ask me about ...
 -->
 
-<h4>🔭 I’m currently working on the deployment of my personal projects and the creation of my portfolio.</h4>
+<h4>🔭 I'm currently exploring the world of design patterns and learning the next.js framework.</h4>
 <h4>🌱 I’m currently learning about agile methodologies and personal branding.</h4>
 <h4>👯 I’m looking to collaborate on challenging, interesting and useful projects.</h4>
 
