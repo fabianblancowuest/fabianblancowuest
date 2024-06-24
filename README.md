@@ -2,7 +2,7 @@
 <h2>About Me</h2>
 
 <p>
-  I'm Fabian Blanco, a passionate developer currently delving into the world of design patterns and mastering the Next.js framework. My journey also includes a keen interest in agile methodologies and personal branding to enhance both team dynamics and personal growth.
+  I'm Fabian Blanco Wuest, a passionate developer currently delving into the world of design patterns and mastering the Next.js framework. My journey also includes a keen interest in agile methodologies and personal branding to enhance both team dynamics and personal growth.
 </p>
 
 <h2>Collaboration</h2>
