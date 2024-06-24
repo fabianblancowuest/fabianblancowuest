@@ -1,35 +1,28 @@
-### <h1>Hi there 👋</h1>
+Hi there 👋
+About Me
+I'm Fabian Blanco, a passionate developer currently delving into the world of design patterns and mastering the Next.js framework. My journey also includes a keen interest in agile methodologies and personal branding to enhance both team dynamics and personal growth.
 
-<!--
-**fabianblancowuest/fabianblancowuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-🤔 I’m looking for help with ...
-💬 Ask me about ...
--->
+Collaboration
+I'm always on the lookout for challenging, interesting, and impactful projects to collaborate on. Whether it’s a groundbreaking startup idea or an innovative open-source project, I’m excited to contribute and learn.
 
-<h4>🔭 I'm currently exploring the world of design patterns and learning the next.js framework.</h4>
-<h4>🌱 I’m currently learning about agile methodologies and personal branding.</h4>
-<h4>👯 I’m looking to collaborate on challenging, interesting and useful projects.</h4>
+Contact
+📫 How to reach me:
 
-<h3>📫 How to reach me:</h3>
-<ul>
-<li>Email: fabianblancowuest@gmail.com</li>
-<li><a href="https://www.linkedin.com/in/fabianblancowuest/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-</ul>
-  
-<h3>💻 Tech Skills:</h3>
-<ul>
-  <li>JavaScript</li>
-  <li>ReactJS</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>Postgre SQL</li>
-  <li>Sequelize</li>
-  <li>MongoDB</li>
-  <li>CSS</li>
-  <li>HTML</li>
-  <li>Bootstrap</li>
-</ul>
-
-<h3>⚡ Fun fact:</h3>
-<h4>I have 8 dogs🐶 and a cat🐱.</h4>
+Email: fabianblancowuest@gmail.com
+LinkedIn: Your LinkedIn Profile (Replace with your actual LinkedIn URL)
+Tech Skills
+Languages & Frameworks:
+JavaScript
+ReactJS
+Node.js
+Express.js
+Databases:
+PostgreSQL
+Sequelize
+MongoDB
+Web Technologies:
+HTML
+CSS
+Bootstrap
+Fun Fact
+⚡ Outside of coding, I enjoy spending time with my 8 dogs 🐶 and a cat 🐱. They keep my life lively and fun!
