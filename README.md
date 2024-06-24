@@ -13,7 +13,7 @@
 <p>📫 How to reach me:</p>
 <ul>
   <li>Email: fabianblancowuest@gmail.com</li>
-  <li>LinkedIn: https://www.linkedin.com/in/fabianblancowuest/<li>
+  <li>LinkedIn: https://www.linkedin.com/in/fabianblancowuest/</li>
 </ul>
 <h3>Tech Skills<h/3>
 <h4>Languages & Frameworks:</h4>
