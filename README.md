@@ -19,6 +19,7 @@
 <h4>Languages & Frameworks:</h4>
 <ul>
   <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>ReactJS</li>
   <li>Node.js</li>
   <li>Express.js</li>
