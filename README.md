@@ -38,4 +38,4 @@
 </ul>
   
 <h2>Fun Fact</h2>
-<p>⚡ Outside of coding, I enjoy spending time with my 8 dogs 🐶 and a cat 🐱. They keep my life lively and fun!</p>
+<p>⚡ Outside of coding, I enjoy spending time with my dogs 🐶 and my cat 🐱. They keep my life lively and fun!</p>
