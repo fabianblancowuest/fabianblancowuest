@@ -21,6 +21,7 @@
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>ReactJS</li>
+  <li>Next.js</li>
   <li>Node.js</li>
   <li>Express.js</li>
 </ul>
